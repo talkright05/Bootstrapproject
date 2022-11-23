@@ -1,0 +1,41 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.subscribe{
+    font-weight: bold;
+    font-size: 10px;
+    color: rgb(87, 83, 83);
+}
+.subsc{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.about{
+    display: inline-flex;
+    list-style: none;
+    cursor: pointer;
+    gap: 20px;
+    font-size: 9px;
+}
+.signup{
+    display: inline-flex;
+    list-style: none;
+    cursor: pointer;
+    gap: 20px;
+    font-size: 9px;
+}
+
+.icon{
+    display: inline-flex;
+    list-style: none;
+    cursor: pointer;
+    gap: 20px;
+    font-size: 9px; 
+}
+.besnik{
+    margin-right: 44%;
+}
